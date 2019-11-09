@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+**/*~
+env/**
+log/**
+*.egg-info/
+*.egg
+.ipynb_checkpoints/
